@@ -7,7 +7,7 @@
 extern "C" {
 #include "mir.h"
 #include "mir-gen.h"
-#include "../real-time.h"
+#include "real-time.h"
 }
 
 #include <functional>
